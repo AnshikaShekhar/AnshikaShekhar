@@ -2,7 +2,7 @@
 👋 Hi, I'm Anshika Shekhar, a passionate Full-Stack Developer currently pursuing a B.Tech in Computer Science Engineering.<br>  
 💻 I enjoy building dynamic, user-centric web applications using technologies like React, Node.js, Express, MongoDB, and more.<br>  
 🌱 I'm constantly learning and exploring the latest trends in web development, AI.<br>  
-🚀 Currently working on projects that combine generative AI, real-time analytics, and modern web frameworks.
+🚀 Currently working on projects that combine AI, real-time analytics, and modern web frameworks.
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
